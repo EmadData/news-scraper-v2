@@ -1,0 +1,22 @@
+{
+  "tasnim": [
+    {
+      "url": "https://www.tasnimnews.com/fa/service/1/%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C",
+      "category": "سیاسی"
+    },
+    {
+      "url": "https://www.tasnimnews.com/fa/service/3/%D9%88%D8%B1%D8%B2%D8%B4%DB%8C",
+      "category": "ورزشی"
+    }
+  ],
+  "shahrkhabar": [
+    {
+      "url": "https://www.khabarfoori.com/%D8%A8%D8%AE%D8%B4-%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C-59",
+      "category": "سیاسی"
+    },
+    {
+      "url": "https://www.khabarfoori.com/%D8%A8%D8%AE%D8%B4-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C-145",
+      "category": "اقتصاد"
+    }
+  ]
+}
